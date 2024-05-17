@@ -60,3 +60,8 @@ GitHub Username: Jbrockhoff
 
 Email: jbrockh1@gmail.com
 
+Parbinder Singh
+
+Github Username: maanman25
+
+Email: parbinder25@gmail.com

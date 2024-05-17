@@ -24,8 +24,7 @@ Express, MySQL, lodash:
 ## Usage
 Here is the link to the GitHub Repository for this application: 
 
-https://github.com/Jbrockhoff/HVAC-Inventory-Tracker
-
+https://github.com/maanman25/HVAC_INVO
 
 Here is the link to the deployed Heroku application:
 

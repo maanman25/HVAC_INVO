@@ -29,7 +29,7 @@ https://github.com/Jbrockhoff/HVAC-Inventory-Tracker
 
 Here is the link to the deployed Heroku application:
 
-https://chilltrack-4a728d00a787.herokuapp.com/
+https://maanmanhvac-a272adfedc18.herokuapp.com/
 
 ## License
 ISC
